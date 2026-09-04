@@ -1,5 +1,5 @@
 import Button from "./UI/Button";
-// import Avatar from "./UI/avatar";
+//import Avatar from "./UI/avatar";
 
 function User({name, metier, avatar}) {
     return (
